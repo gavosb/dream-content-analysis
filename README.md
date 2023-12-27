@@ -1,4 +1,4 @@
-## Dream Content Analysis with Topic Modeling
+# Dream Content Analysis with Topic Modeling
 
 Dream content analysis has been done manually by psychologists for some time. Many systems
 have been developed to quantify and relate the “content” of a given dream, from many different
@@ -15,7 +15,7 @@ information extraction may be used, such as sentiment analysis or conjoined use 
 based upon neural networks. As the project stands, it is a great tool for therapeutic use and as an aid in
 dream interpretation.
 
-# Setup
+## Setup
 
 This project was only tested on Debian-based Linux. The data folder contains:
  - Images
