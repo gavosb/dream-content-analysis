@@ -33,7 +33,7 @@ matplotlib
 contractions
 regex
 
-# Images
+## Images
 
 ![An Interesting Branch of a Dream Tree](https://github.com/gavosb/dream-content-analysis/assets/75707967/e4f413fb-31ba-408e-a505-791be0e486e4)
 
