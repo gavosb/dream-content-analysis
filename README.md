@@ -8,12 +8,16 @@ handful of qualitative categories. Typical content analysis defines content as b
 constituent elements; thoughts, emotions, images, and so on; this is largely empirical in nature when
 not given the constraints of a formally defined quantitative system, an issue the HVC system avoids.
 
-The pipeline that I have developed takes a quantitative approach that avoids some of the subjective pitfalls of existing content analysis technqieus; an interesting algorithmic measure to identify dream content. The use cases of these methods are broad
+The pipeline that I have developed takes a quantitative approach that avoids some of the subjective pitfalls of existing content analysis techniques; an interesting algorithmic measure to identify dream content. The use cases of these methods are broad
 and have plenty of room for improvement by experimenting with different combinations of semantic
 relatedness model, derivations of data for such models, and pruning methods. Other methods of
 information extraction may be used, such as sentiment analysis or conjoined use with text analysis
 based upon neural networks. As the project stands, it is a great tool for therapeutic use and as an aid in
 dream interpretation.
+
+## Description of underlying system
+
+A more in-depth description of the project is available in pdf form within the root directory of the repository.
 
 ## Setup
 
@@ -24,6 +28,8 @@ This project was only tested on Debian-based Linux. The data folder contains:
 
 You can find JPathfinder here:
 https://research-collective.com/PFWeb/Download.html
+
+The Dreambank database is not included in this repository, but can be requested by email from the dreambank.net website.
 
 Using Python 3.10, the necessary packages are:
 sklearn
