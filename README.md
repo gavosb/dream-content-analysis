@@ -33,16 +33,11 @@ The Dreambank database is not included in this repository, but can be requested 
 
 Using Python 3.10, the necessary packages are:
 
-sklearn
-
-networkx
-
-numpy
-
-matplotlib
-
-contractions
-
+sklearn, 
+networkx, 
+numpy, 
+matplotlib, 
+contractions, 
 regex
 
 ## Images
