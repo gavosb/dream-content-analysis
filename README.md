@@ -32,11 +32,17 @@ https://research-collective.com/PFWeb/Download.html
 The Dreambank database is not included in this repository, but can be requested by email from the dreambank.net website.
 
 Using Python 3.10, the necessary packages are:
+
 sklearn
+
 networkx
+
 numpy
+
 matplotlib
+
 contractions
+
 regex
 
 ## Images
